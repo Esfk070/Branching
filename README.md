@@ -2,7 +2,9 @@
 
 Examples of common git commands. Also practice dealing with branching and resolving merge conflicts.
 
+
 stuff added here in newBranch
+
 
 ### General Commands
 * 'git init' 						- initilize local git repo in current working directory
@@ -28,4 +30,4 @@ stuff added here in newBranch
 * 'git pull origin branchName'		- pull and merge remote branch 'branchName with current local branch'
 
 newBranch stuff
-more studd from newBranch
+more stuff from newBranch
